@@ -1,0 +1,14 @@
+1A
+1B
+WT1
+2A
+2B
+WT2
+3A
+WT3
+3B
+WT4
+4A
+WT5
+WT6
+4B
