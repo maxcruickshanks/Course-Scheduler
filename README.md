@@ -21,7 +21,7 @@ Fourth, update `sequence.txt` to match your study sequence.
 Fifth, update `wanted courses.txt` with the courses you want to take.
 **(See Implementation Details for formatting information.)**
 
-Sixth, run the program (`Schedulder.exe`) and view `possible schedules.txt` to decide your schedule!
+Sixth, run the program (`Scheduler.exe`) and view `possible schedules.txt` to decide your schedule!
 
 # Limitations
 - All files must be manually updated to find a set of optimal schedules:
